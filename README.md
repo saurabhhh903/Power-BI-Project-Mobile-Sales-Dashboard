@@ -5,13 +5,13 @@ An interactive **Power BI Dashboard** built to analyze mobile sales performance 
 ## 📊 Dashboard Preview
 
 ### 🏠 Dashboard
-![Dashboard]("C:\Users\DELL\Documents\Data Anylisye Projects\Mobile Sales Dashboard (Power  Bi)\Dashboard Image\Dashboard.png")
+![01_Dashboard](images/01_Dashboard.png)
 
 ### 📈 Month-to-Date (MTD) Report
-![MTD Report]("C:\Users\DELL\Documents\Data Anylisye Projects\Mobile Sales Dashboard (Power  Bi)\Dashboard Image\MTD Report.png")
+![02_MTD Report](images/02_MTD_Report.png)
 
 ### 📅 Same Period Last Year (SPLY)
-![Same Period Last Year]("C:\Users\DELL\Documents\Data Anylisye Projects\Mobile Sales Dashboard (Power  Bi)\Dashboard Image\Same Period Last Period.png")
+![03_Same Period Last Year](images/03_Same_Period_Last_Year.png)
 
 ---
 
