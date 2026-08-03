@@ -40,17 +40,6 @@ An interactive **Power BI Dashboard** built to analyze mobile sales performance 
 
 ---
 
-## 📂 Project Files
-
-```
-📁 images
-📁 dataset
-📄 Mobile_Sales_Dashboard.pbix
-📄 README.md
-```
-
----
-
 ## 📌 Skills Demonstrated
 
 - Dashboard Design
