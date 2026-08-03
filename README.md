@@ -4,14 +4,14 @@ An interactive **Power BI Dashboard** built to analyze mobile sales performance 
 
 ## 📊 Dashboard Preview
 
-### 🏠 Dashboard
-![01_Dashboard](images/01_Dashboard.png)
+## 🏠 Dashboard
+![Dashboard](01_Dashboard.png)
 
-### 📈 Month-to-Date (MTD) Report
-![02_MTD Report](images/02_MTD_Report.png)
+## 📈 Month-to-Date (MTD) Report
+![MTD Report](02_MTD%20Report.png)
 
-### 📅 Same Period Last Year (SPLY)
-![03_Same Period Last Year](images/03_Same_Period_Last_Year.png)
+## 📅 Same Period Last Year (SPLY)
+![SPLY](03_Same%20Period%20Last%20Period.png)
 
 ---
 
